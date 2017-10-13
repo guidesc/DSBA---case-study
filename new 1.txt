@@ -1,0 +1,45 @@
+words indicating stop
+* stationne --> la rame est repartie (2)
+* le trafic perturbé, en direction de Cergy --> incident terminé
+* fin d'incident
+* fin d'intervention
+* trafic reprend 
+* intervention des agents --> fin d'intervention
+perturbé
+
+ralenti
+le trafic est interrompu
+stationne
+
+
+resume to work
+* Trafic rétabli
+* reprise du trafic 
+* Incident terminé
+* à la normale
+* trafic de nouveau normal
+
+incident:
+malaise voyageur
+incident d'exploitation
+incident technique
+
+colis suspect
+voyageur malade
+incident voyageur
+divers incidents
+
+panne_list= ['panne de signalisation','panne de matériel','panne électrique',
+'panne mécanique','panne de caténaire',"panne d'aiguillage",'panne matériel',
+           'panne éléctrique', 'panne sur un train','pannes de signalisation',
+            "panne d'un train","panne de train"]
+
+
+
+
+Must delete:
+Théo
+Bonjour
+@
+
+
