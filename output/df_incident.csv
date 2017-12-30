@@ -1,0 +1,609 @@
+,0,1,username,group
+0,colis suspect,1171,RER_A,bagage abandonné
+1,malaise voyageur,471,RER_A,malaise voyageur
+2,incident technique,381,RER_A,incident technique
+3,incident voyageur,245,RER_A,incident voyageur
+4,panne de matériel,233,RER_A,panne de matériel
+5,divers incidents,213,RER_A,divers incidents
+6,panne de signalisation,196,RER_A,panne de signalisation
+7,incident d'exploitation,73,RER_A,incident d'exploitation
+8,panne électrique,72,RER_A,panne électrique
+9,panne de caténaire,38,RER_A,panne de caténaire
+10,voyageur malade,31,RER_A,malaise voyageur
+11,acte de malveillance,31,RER_A,acte de malveillance
+12,obstacle sur la voie,22,RER_A,obstacle sur la voie
+13,bagage abandonné,16,RER_A,bagage abandonné
+14,bagage oublié,13,RER_A,bagage abandonné
+15,Incident de signalisation,9,RER_A,Incident de signalisation
+16,panne d'un train,8,RER_A,panne d'un train
+17,panne matériel,5,RER_A,panne matériel
+18,panne d'aiguillage,4,RER_A,panne d'aiguillage
+19,panne mécanique,3,RER_A,panne mécanique
+20,panne sur un train,2,RER_A,panne sur un train
+21,panne de train,2,RER_A,panne de train
+22,panne éléctrique,1,RER_A,panne éléctrique
+23,pannes de signalisation,1,RER_A,pannes de signalisation
+24,accident de personne,1,RER_A,accident de personne
+25,pb signalisation,1,RER_A,panne de signalisation
+26,personnes sur les voies,1,RER_A,personnes sur les voies
+27,incident de passage,0,RER_A,incident de passage
+28,feu aux abords,0,RER_A,feu aux abords
+29,jets de pierre,0,RER_A,acte de malveillance
+30,branche tombée,0,RER_A,branche tombée
+31,jet de projectile,0,RER_A,acte de malveillance
+0,colis suspect,676,RER_B,bagage abandonné
+1,malaise voyageur,270,RER_B,malaise voyageur
+2,panne de matériel,228,RER_B,panne de matériel
+3,incident technique,214,RER_B,incident technique
+4,panne de signalisation,163,RER_B,panne de signalisation
+5,incident voyageur,143,RER_B,incident voyageur
+6,panne électrique,93,RER_B,panne électrique
+7,divers incidents,62,RER_B,divers incidents
+8,incident d'exploitation,34,RER_B,incident d'exploitation
+9,acte de malveillance,32,RER_B,acte de malveillance
+10,voyageur malade,25,RER_B,malaise voyageur
+11,obstacle sur la voie,21,RER_B,obstacle sur la voie
+12,bagage abandonné,18,RER_B,bagage abandonné
+13,panne d'un train,15,RER_B,panne d'un train
+14,panne de caténaire,12,RER_B,panne de caténaire
+15,personnes sur les voies,12,RER_B,personnes sur les voies
+16,accident de personne,11,RER_B,accident de personne
+17,Incident de signalisation,9,RER_B,Incident de signalisation
+18,panne matériel,9,RER_B,panne matériel
+19,panne de train,3,RER_B,panne de train
+20,bagage oublié,3,RER_B,bagage abandonné
+21,panne d'aiguillage,2,RER_B,panne d'aiguillage
+22,feu aux abords,2,RER_B,feu aux abords
+23,panne mécanique,0,RER_B,panne mécanique
+24,panne éléctrique,0,RER_B,panne éléctrique
+25,panne sur un train,0,RER_B,panne sur un train
+26,pannes de signalisation,0,RER_B,pannes de signalisation
+27,incident de passage,0,RER_B,incident de passage
+28,pb signalisation,0,RER_B,panne de signalisation
+29,jets de pierre,0,RER_B,acte de malveillance
+30,branche tombée,0,RER_B,branche tombée
+31,jet de projectile,0,RER_B,acte de malveillance
+0,bagage abandonné,149,RER_C,bagage abandonné
+1,bagage oublié,144,RER_C,bagage abandonné
+2,personnes sur les voies,113,RER_C,personnes sur les voies
+3,panne d'un train,103,RER_C,panne d'un train
+4,accident de personne,78,RER_C,accident de personne
+5,malaise voyageur,25,RER_C,malaise voyageur
+6,Incident de signalisation,24,RER_C,Incident de signalisation
+7,acte de malveillance,24,RER_C,acte de malveillance
+8,obstacle sur la voie,15,RER_C,obstacle sur la voie
+9,incident technique,11,RER_C,incident technique
+10,incident de passage,9,RER_C,incident de passage
+11,feu aux abords,8,RER_C,feu aux abords
+12,branche tombée,8,RER_C,branche tombée
+13,panne électrique,6,RER_C,panne électrique
+14,jets de pierre,5,RER_C,acte de malveillance
+15,panne de signalisation,4,RER_C,panne de signalisation
+16,colis suspect,3,RER_C,bagage abandonné
+17,panne sur un train,3,RER_C,panne sur un train
+18,pb signalisation,3,RER_C,panne de signalisation
+19,jet de projectile,3,RER_C,acte de malveillance
+20,incident voyageur,2,RER_C,incident voyageur
+21,panne d'aiguillage,2,RER_C,panne d'aiguillage
+22,divers incidents,1,RER_C,divers incidents
+23,panne de train,1,RER_C,panne de train
+24,incident d'exploitation,0,RER_C,incident d'exploitation
+25,voyageur malade,0,RER_C,malaise voyageur
+26,panne de matériel,0,RER_C,panne de matériel
+27,panne mécanique,0,RER_C,panne mécanique
+28,panne de caténaire,0,RER_C,panne de caténaire
+29,panne matériel,0,RER_C,panne matériel
+30,panne éléctrique,0,RER_C,panne éléctrique
+31,pannes de signalisation,0,RER_C,pannes de signalisation
+0,bagage abandonné,202,RER_D,bagage abandonné
+1,panne d'un train,174,RER_D,panne d'un train
+2,accident de personne,147,RER_D,accident de personne
+3,personnes sur les voies,145,RER_D,personnes sur les voies
+4,malaise voyageur,98,RER_D,malaise voyageur
+5,acte de malveillance,76,RER_D,acte de malveillance
+6,bagage oublié,56,RER_D,bagage abandonné
+7,Incident de signalisation,25,RER_D,Incident de signalisation
+8,colis suspect,19,RER_D,bagage abandonné
+9,obstacle sur la voie,17,RER_D,obstacle sur la voie
+10,incident voyageur,8,RER_D,incident voyageur
+11,feu aux abords,8,RER_D,feu aux abords
+12,incident technique,7,RER_D,incident technique
+13,panne de train,4,RER_D,panne de train
+14,pb signalisation,4,RER_D,panne de signalisation
+15,panne de signalisation,3,RER_D,panne de signalisation
+16,incident d'exploitation,1,RER_D,incident d'exploitation
+17,divers incidents,1,RER_D,divers incidents
+18,panne de matériel,1,RER_D,panne de matériel
+19,panne électrique,1,RER_D,panne électrique
+20,panne sur un train,1,RER_D,panne sur un train
+21,jets de pierre,1,RER_D,acte de malveillance
+22,voyageur malade,0,RER_D,malaise voyageur
+23,panne mécanique,0,RER_D,panne mécanique
+24,panne de caténaire,0,RER_D,panne de caténaire
+25,panne d'aiguillage,0,RER_D,panne d'aiguillage
+26,panne matériel,0,RER_D,panne matériel
+27,panne éléctrique,0,RER_D,panne éléctrique
+28,pannes de signalisation,0,RER_D,pannes de signalisation
+29,incident de passage,0,RER_D,incident de passage
+30,branche tombée,0,RER_D,branche tombée
+31,jet de projectile,0,RER_D,acte de malveillance
+0,accident de personne,102,RER_E,accident de personne
+1,personnes sur les voies,66,RER_E,personnes sur les voies
+2,panne d'un train,57,RER_E,panne d'un train
+3,acte de malveillance,52,RER_E,acte de malveillance
+4,bagage abandonné,38,RER_E,bagage abandonné
+5,malaise voyageur,32,RER_E,malaise voyageur
+6,Incident de signalisation,14,RER_E,Incident de signalisation
+7,bagage oublié,14,RER_E,bagage abandonné
+8,obstacle sur la voie,9,RER_E,obstacle sur la voie
+9,pb signalisation,9,RER_E,panne de signalisation
+10,incident voyageur,8,RER_E,incident voyageur
+11,colis suspect,5,RER_E,bagage abandonné
+12,feu aux abords,4,RER_E,feu aux abords
+13,incident technique,2,RER_E,incident technique
+14,jets de pierre,2,RER_E,acte de malveillance
+15,incident de passage,1,RER_E,incident de passage
+16,incident d'exploitation,0,RER_E,incident d'exploitation
+17,voyageur malade,0,RER_E,malaise voyageur
+18,divers incidents,0,RER_E,divers incidents
+19,panne de signalisation,0,RER_E,panne de signalisation
+20,panne de matériel,0,RER_E,panne de matériel
+21,panne électrique,0,RER_E,panne électrique
+22,panne mécanique,0,RER_E,panne mécanique
+23,panne de caténaire,0,RER_E,panne de caténaire
+24,panne d'aiguillage,0,RER_E,panne d'aiguillage
+25,panne matériel,0,RER_E,panne matériel
+26,panne éléctrique,0,RER_E,panne éléctrique
+27,panne sur un train,0,RER_E,panne sur un train
+28,pannes de signalisation,0,RER_E,pannes de signalisation
+29,panne de train,0,RER_E,panne de train
+30,branche tombée,0,RER_E,branche tombée
+31,jet de projectile,0,RER_E,acte de malveillance
+0,incident technique,476,Ligne1_RATP,incident technique
+1,colis suspect,153,Ligne1_RATP,bagage abandonné
+2,panne de matériel,149,Ligne1_RATP,panne de matériel
+3,malaise voyageur,148,Ligne1_RATP,malaise voyageur
+4,incident d'exploitation,48,Ligne1_RATP,incident d'exploitation
+5,incident voyageur,38,Ligne1_RATP,incident voyageur
+6,panne électrique,11,Ligne1_RATP,panne électrique
+7,obstacle sur la voie,8,Ligne1_RATP,obstacle sur la voie
+8,voyageur malade,7,Ligne1_RATP,malaise voyageur
+9,divers incidents,7,Ligne1_RATP,divers incidents
+10,panne de signalisation,6,Ligne1_RATP,panne de signalisation
+11,panne mécanique,1,Ligne1_RATP,panne mécanique
+12,acte de malveillance,1,Ligne1_RATP,acte de malveillance
+13,Incident de signalisation,0,Ligne1_RATP,Incident de signalisation
+14,panne de caténaire,0,Ligne1_RATP,panne de caténaire
+15,panne d'aiguillage,0,Ligne1_RATP,panne d'aiguillage
+16,panne matériel,0,Ligne1_RATP,panne matériel
+17,panne éléctrique,0,Ligne1_RATP,panne éléctrique
+18,panne sur un train,0,Ligne1_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne1_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne1_RATP,panne d'un train
+21,panne de train,0,Ligne1_RATP,panne de train
+22,bagage abandonné,0,Ligne1_RATP,bagage abandonné
+23,incident de passage,0,Ligne1_RATP,incident de passage
+24,accident de personne,0,Ligne1_RATP,accident de personne
+25,feu aux abords,0,Ligne1_RATP,feu aux abords
+26,pb signalisation,0,Ligne1_RATP,panne de signalisation
+27,jets de pierre,0,Ligne1_RATP,acte de malveillance
+28,bagage oublié,0,Ligne1_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne1_RATP,personnes sur les voies
+30,branche tombée,0,Ligne1_RATP,branche tombée
+31,jet de projectile,0,Ligne1_RATP,acte de malveillance
+0,malaise voyageur,194,Ligne2_RATP,malaise voyageur
+1,colis suspect,147,Ligne2_RATP,bagage abandonné
+2,incident technique,123,Ligne2_RATP,incident technique
+3,incident voyageur,107,Ligne2_RATP,incident voyageur
+4,panne de matériel,55,Ligne2_RATP,panne de matériel
+5,panne de signalisation,43,Ligne2_RATP,panne de signalisation
+6,incident d'exploitation,35,Ligne2_RATP,incident d'exploitation
+7,voyageur malade,16,Ligne2_RATP,malaise voyageur
+8,divers incidents,5,Ligne2_RATP,divers incidents
+9,obstacle sur la voie,3,Ligne2_RATP,obstacle sur la voie
+10,acte de malveillance,3,Ligne2_RATP,acte de malveillance
+11,panne d'aiguillage,1,Ligne2_RATP,panne d'aiguillage
+12,panne matériel,1,Ligne2_RATP,panne matériel
+13,Incident de signalisation,0,Ligne2_RATP,Incident de signalisation
+14,panne électrique,0,Ligne2_RATP,panne électrique
+15,panne mécanique,0,Ligne2_RATP,panne mécanique
+16,panne de caténaire,0,Ligne2_RATP,panne de caténaire
+17,panne éléctrique,0,Ligne2_RATP,panne éléctrique
+18,panne sur un train,0,Ligne2_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne2_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne2_RATP,panne d'un train
+21,panne de train,0,Ligne2_RATP,panne de train
+22,bagage abandonné,0,Ligne2_RATP,bagage abandonné
+23,incident de passage,0,Ligne2_RATP,incident de passage
+24,accident de personne,0,Ligne2_RATP,accident de personne
+25,feu aux abords,0,Ligne2_RATP,feu aux abords
+26,pb signalisation,0,Ligne2_RATP,panne de signalisation
+27,jets de pierre,0,Ligne2_RATP,acte de malveillance
+28,bagage oublié,0,Ligne2_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne2_RATP,personnes sur les voies
+30,branche tombée,0,Ligne2_RATP,branche tombée
+31,jet de projectile,0,Ligne2_RATP,acte de malveillance
+0,colis suspect,172,Ligne3_RATP,bagage abandonné
+1,malaise voyageur,141,Ligne3_RATP,malaise voyageur
+2,panne de matériel,139,Ligne3_RATP,panne de matériel
+3,incident technique,130,Ligne3_RATP,incident technique
+4,incident d'exploitation,56,Ligne3_RATP,incident d'exploitation
+5,incident voyageur,54,Ligne3_RATP,incident voyageur
+6,panne de signalisation,50,Ligne3_RATP,panne de signalisation
+7,divers incidents,14,Ligne3_RATP,divers incidents
+8,voyageur malade,7,Ligne3_RATP,malaise voyageur
+9,panne électrique,5,Ligne3_RATP,panne électrique
+10,acte de malveillance,5,Ligne3_RATP,acte de malveillance
+11,Incident de signalisation,1,Ligne3_RATP,Incident de signalisation
+12,panne d'aiguillage,1,Ligne3_RATP,panne d'aiguillage
+13,panne matériel,1,Ligne3_RATP,panne matériel
+14,bagage abandonné,1,Ligne3_RATP,bagage abandonné
+15,panne mécanique,0,Ligne3_RATP,panne mécanique
+16,panne de caténaire,0,Ligne3_RATP,panne de caténaire
+17,panne éléctrique,0,Ligne3_RATP,panne éléctrique
+18,panne sur un train,0,Ligne3_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne3_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne3_RATP,panne d'un train
+21,panne de train,0,Ligne3_RATP,panne de train
+22,obstacle sur la voie,0,Ligne3_RATP,obstacle sur la voie
+23,incident de passage,0,Ligne3_RATP,incident de passage
+24,accident de personne,0,Ligne3_RATP,accident de personne
+25,feu aux abords,0,Ligne3_RATP,feu aux abords
+26,pb signalisation,0,Ligne3_RATP,panne de signalisation
+27,jets de pierre,0,Ligne3_RATP,acte de malveillance
+28,bagage oublié,0,Ligne3_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne3_RATP,personnes sur les voies
+30,branche tombée,0,Ligne3_RATP,branche tombée
+31,jet de projectile,0,Ligne3_RATP,acte de malveillance
+0,colis suspect,699,Ligne4_RATP,bagage abandonné
+1,malaise voyageur,393,Ligne4_RATP,malaise voyageur
+2,incident technique,217,Ligne4_RATP,incident technique
+3,incident voyageur,163,Ligne4_RATP,incident voyageur
+4,panne de signalisation,93,Ligne4_RATP,panne de signalisation
+5,panne de matériel,78,Ligne4_RATP,panne de matériel
+6,divers incidents,51,Ligne4_RATP,divers incidents
+7,incident d'exploitation,48,Ligne4_RATP,incident d'exploitation
+8,voyageur malade,16,Ligne4_RATP,malaise voyageur
+9,panne électrique,16,Ligne4_RATP,panne électrique
+10,acte de malveillance,8,Ligne4_RATP,acte de malveillance
+11,bagage abandonné,3,Ligne4_RATP,bagage abandonné
+12,Incident de signalisation,1,Ligne4_RATP,Incident de signalisation
+13,panne d'aiguillage,1,Ligne4_RATP,panne d'aiguillage
+14,obstacle sur la voie,1,Ligne4_RATP,obstacle sur la voie
+15,panne mécanique,0,Ligne4_RATP,panne mécanique
+16,panne de caténaire,0,Ligne4_RATP,panne de caténaire
+17,panne matériel,0,Ligne4_RATP,panne matériel
+18,panne éléctrique,0,Ligne4_RATP,panne éléctrique
+19,panne sur un train,0,Ligne4_RATP,panne sur un train
+20,pannes de signalisation,0,Ligne4_RATP,pannes de signalisation
+21,panne d'un train,0,Ligne4_RATP,panne d'un train
+22,panne de train,0,Ligne4_RATP,panne de train
+23,incident de passage,0,Ligne4_RATP,incident de passage
+24,accident de personne,0,Ligne4_RATP,accident de personne
+25,feu aux abords,0,Ligne4_RATP,feu aux abords
+26,pb signalisation,0,Ligne4_RATP,panne de signalisation
+27,jets de pierre,0,Ligne4_RATP,acte de malveillance
+28,bagage oublié,0,Ligne4_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne4_RATP,personnes sur les voies
+30,branche tombée,0,Ligne4_RATP,branche tombée
+31,jet de projectile,0,Ligne4_RATP,acte de malveillance
+0,malaise voyageur,213,Ligne5_RATP,malaise voyageur
+1,colis suspect,208,Ligne5_RATP,bagage abandonné
+2,incident technique,202,Ligne5_RATP,incident technique
+3,panne de signalisation,101,Ligne5_RATP,panne de signalisation
+4,incident d'exploitation,92,Ligne5_RATP,incident d'exploitation
+5,incident voyageur,92,Ligne5_RATP,incident voyageur
+6,panne de matériel,65,Ligne5_RATP,panne de matériel
+7,divers incidents,34,Ligne5_RATP,divers incidents
+8,voyageur malade,9,Ligne5_RATP,malaise voyageur
+9,acte de malveillance,5,Ligne5_RATP,acte de malveillance
+10,panne matériel,2,Ligne5_RATP,panne matériel
+11,panne électrique,1,Ligne5_RATP,panne électrique
+12,Incident de signalisation,0,Ligne5_RATP,Incident de signalisation
+13,panne mécanique,0,Ligne5_RATP,panne mécanique
+14,panne de caténaire,0,Ligne5_RATP,panne de caténaire
+15,panne d'aiguillage,0,Ligne5_RATP,panne d'aiguillage
+16,panne éléctrique,0,Ligne5_RATP,panne éléctrique
+17,panne sur un train,0,Ligne5_RATP,panne sur un train
+18,pannes de signalisation,0,Ligne5_RATP,pannes de signalisation
+19,panne d'un train,0,Ligne5_RATP,panne d'un train
+20,panne de train,0,Ligne5_RATP,panne de train
+21,obstacle sur la voie,0,Ligne5_RATP,obstacle sur la voie
+22,bagage abandonné,0,Ligne5_RATP,bagage abandonné
+23,incident de passage,0,Ligne5_RATP,incident de passage
+24,accident de personne,0,Ligne5_RATP,accident de personne
+25,feu aux abords,0,Ligne5_RATP,feu aux abords
+26,pb signalisation,0,Ligne5_RATP,panne de signalisation
+27,jets de pierre,0,Ligne5_RATP,acte de malveillance
+28,bagage oublié,0,Ligne5_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne5_RATP,personnes sur les voies
+30,branche tombée,0,Ligne5_RATP,branche tombée
+31,jet de projectile,0,Ligne5_RATP,acte de malveillance
+0,colis suspect,447,Ligne6_RATP,bagage abandonné
+1,panne de matériel,211,Ligne6_RATP,panne de matériel
+2,incident technique,181,Ligne6_RATP,incident technique
+3,malaise voyageur,157,Ligne6_RATP,malaise voyageur
+4,panne de signalisation,155,Ligne6_RATP,panne de signalisation
+5,incident voyageur,70,Ligne6_RATP,incident voyageur
+6,incident d'exploitation,38,Ligne6_RATP,incident d'exploitation
+7,panne électrique,6,Ligne6_RATP,panne électrique
+8,voyageur malade,5,Ligne6_RATP,malaise voyageur
+9,divers incidents,5,Ligne6_RATP,divers incidents
+10,bagage abandonné,2,Ligne6_RATP,bagage abandonné
+11,acte de malveillance,2,Ligne6_RATP,acte de malveillance
+12,Incident de signalisation,0,Ligne6_RATP,Incident de signalisation
+13,panne mécanique,0,Ligne6_RATP,panne mécanique
+14,panne de caténaire,0,Ligne6_RATP,panne de caténaire
+15,panne d'aiguillage,0,Ligne6_RATP,panne d'aiguillage
+16,panne matériel,0,Ligne6_RATP,panne matériel
+17,panne éléctrique,0,Ligne6_RATP,panne éléctrique
+18,panne sur un train,0,Ligne6_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne6_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne6_RATP,panne d'un train
+21,panne de train,0,Ligne6_RATP,panne de train
+22,obstacle sur la voie,0,Ligne6_RATP,obstacle sur la voie
+23,incident de passage,0,Ligne6_RATP,incident de passage
+24,accident de personne,0,Ligne6_RATP,accident de personne
+25,feu aux abords,0,Ligne6_RATP,feu aux abords
+26,pb signalisation,0,Ligne6_RATP,panne de signalisation
+27,jets de pierre,0,Ligne6_RATP,acte de malveillance
+28,bagage oublié,0,Ligne6_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne6_RATP,personnes sur les voies
+30,branche tombée,0,Ligne6_RATP,branche tombée
+31,jet de projectile,0,Ligne6_RATP,acte de malveillance
+0,colis suspect,317,Ligne7_RATP,bagage abandonné
+1,malaise voyageur,230,Ligne7_RATP,malaise voyageur
+2,panne de matériel,182,Ligne7_RATP,panne de matériel
+3,incident technique,151,Ligne7_RATP,incident technique
+4,incident voyageur,103,Ligne7_RATP,incident voyageur
+5,panne de signalisation,86,Ligne7_RATP,panne de signalisation
+6,incident d'exploitation,28,Ligne7_RATP,incident d'exploitation
+7,voyageur malade,13,Ligne7_RATP,malaise voyageur
+8,divers incidents,8,Ligne7_RATP,divers incidents
+9,acte de malveillance,7,Ligne7_RATP,acte de malveillance
+10,panne mécanique,3,Ligne7_RATP,panne mécanique
+11,obstacle sur la voie,3,Ligne7_RATP,obstacle sur la voie
+12,panne électrique,2,Ligne7_RATP,panne électrique
+13,panne matériel,2,Ligne7_RATP,panne matériel
+14,bagage abandonné,2,Ligne7_RATP,bagage abandonné
+15,Incident de signalisation,1,Ligne7_RATP,Incident de signalisation
+16,panne de caténaire,0,Ligne7_RATP,panne de caténaire
+17,panne d'aiguillage,0,Ligne7_RATP,panne d'aiguillage
+18,panne éléctrique,0,Ligne7_RATP,panne éléctrique
+19,panne sur un train,0,Ligne7_RATP,panne sur un train
+20,pannes de signalisation,0,Ligne7_RATP,pannes de signalisation
+21,panne d'un train,0,Ligne7_RATP,panne d'un train
+22,panne de train,0,Ligne7_RATP,panne de train
+23,incident de passage,0,Ligne7_RATP,incident de passage
+24,accident de personne,0,Ligne7_RATP,accident de personne
+25,feu aux abords,0,Ligne7_RATP,feu aux abords
+26,pb signalisation,0,Ligne7_RATP,panne de signalisation
+27,jets de pierre,0,Ligne7_RATP,acte de malveillance
+28,bagage oublié,0,Ligne7_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne7_RATP,personnes sur les voies
+30,branche tombée,0,Ligne7_RATP,branche tombée
+31,jet de projectile,0,Ligne7_RATP,acte de malveillance
+0,colis suspect,247,Ligne8_RATP,bagage abandonné
+1,panne de matériel,231,Ligne8_RATP,panne de matériel
+2,malaise voyageur,195,Ligne8_RATP,malaise voyageur
+3,incident technique,158,Ligne8_RATP,incident technique
+4,panne de signalisation,112,Ligne8_RATP,panne de signalisation
+5,incident voyageur,96,Ligne8_RATP,incident voyageur
+6,incident d'exploitation,39,Ligne8_RATP,incident d'exploitation
+7,voyageur malade,17,Ligne8_RATP,malaise voyageur
+8,panne électrique,17,Ligne8_RATP,panne électrique
+9,divers incidents,6,Ligne8_RATP,divers incidents
+10,acte de malveillance,4,Ligne8_RATP,acte de malveillance
+11,panne mécanique,3,Ligne8_RATP,panne mécanique
+12,panne matériel,1,Ligne8_RATP,panne matériel
+13,bagage abandonné,1,Ligne8_RATP,bagage abandonné
+14,Incident de signalisation,0,Ligne8_RATP,Incident de signalisation
+15,panne de caténaire,0,Ligne8_RATP,panne de caténaire
+16,panne d'aiguillage,0,Ligne8_RATP,panne d'aiguillage
+17,panne éléctrique,0,Ligne8_RATP,panne éléctrique
+18,panne sur un train,0,Ligne8_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne8_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne8_RATP,panne d'un train
+21,panne de train,0,Ligne8_RATP,panne de train
+22,obstacle sur la voie,0,Ligne8_RATP,obstacle sur la voie
+23,incident de passage,0,Ligne8_RATP,incident de passage
+24,accident de personne,0,Ligne8_RATP,accident de personne
+25,feu aux abords,0,Ligne8_RATP,feu aux abords
+26,pb signalisation,0,Ligne8_RATP,panne de signalisation
+27,jets de pierre,0,Ligne8_RATP,acte de malveillance
+28,bagage oublié,0,Ligne8_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne8_RATP,personnes sur les voies
+30,branche tombée,0,Ligne8_RATP,branche tombée
+31,jet de projectile,0,Ligne8_RATP,acte de malveillance
+0,colis suspect,197,Ligne9_RATP,bagage abandonné
+1,malaise voyageur,178,Ligne9_RATP,malaise voyageur
+2,panne de matériel,122,Ligne9_RATP,panne de matériel
+3,incident technique,118,Ligne9_RATP,incident technique
+4,incident voyageur,100,Ligne9_RATP,incident voyageur
+5,panne de signalisation,64,Ligne9_RATP,panne de signalisation
+6,incident d'exploitation,38,Ligne9_RATP,incident d'exploitation
+7,divers incidents,13,Ligne9_RATP,divers incidents
+8,voyageur malade,5,Ligne9_RATP,malaise voyageur
+9,panne électrique,3,Ligne9_RATP,panne électrique
+10,panne mécanique,2,Ligne9_RATP,panne mécanique
+11,acte de malveillance,1,Ligne9_RATP,acte de malveillance
+12,Incident de signalisation,0,Ligne9_RATP,Incident de signalisation
+13,panne de caténaire,0,Ligne9_RATP,panne de caténaire
+14,panne d'aiguillage,0,Ligne9_RATP,panne d'aiguillage
+15,panne matériel,0,Ligne9_RATP,panne matériel
+16,panne éléctrique,0,Ligne9_RATP,panne éléctrique
+17,panne sur un train,0,Ligne9_RATP,panne sur un train
+18,pannes de signalisation,0,Ligne9_RATP,pannes de signalisation
+19,panne d'un train,0,Ligne9_RATP,panne d'un train
+20,panne de train,0,Ligne9_RATP,panne de train
+21,obstacle sur la voie,0,Ligne9_RATP,obstacle sur la voie
+22,bagage abandonné,0,Ligne9_RATP,bagage abandonné
+23,incident de passage,0,Ligne9_RATP,incident de passage
+24,accident de personne,0,Ligne9_RATP,accident de personne
+25,feu aux abords,0,Ligne9_RATP,feu aux abords
+26,pb signalisation,0,Ligne9_RATP,panne de signalisation
+27,jets de pierre,0,Ligne9_RATP,acte de malveillance
+28,bagage oublié,0,Ligne9_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne9_RATP,personnes sur les voies
+30,branche tombée,0,Ligne9_RATP,branche tombée
+31,jet de projectile,0,Ligne9_RATP,acte de malveillance
+0,colis suspect,135,Ligne10_RATP,bagage abandonné
+1,panne de matériel,118,Ligne10_RATP,panne de matériel
+2,malaise voyageur,60,Ligne10_RATP,malaise voyageur
+3,incident technique,43,Ligne10_RATP,incident technique
+4,panne de signalisation,30,Ligne10_RATP,panne de signalisation
+5,incident voyageur,29,Ligne10_RATP,incident voyageur
+6,incident d'exploitation,20,Ligne10_RATP,incident d'exploitation
+7,divers incidents,3,Ligne10_RATP,divers incidents
+8,voyageur malade,1,Ligne10_RATP,malaise voyageur
+9,panne électrique,1,Ligne10_RATP,panne électrique
+10,bagage abandonné,1,Ligne10_RATP,bagage abandonné
+11,acte de malveillance,1,Ligne10_RATP,acte de malveillance
+12,Incident de signalisation,0,Ligne10_RATP,Incident de signalisation
+13,panne mécanique,0,Ligne10_RATP,panne mécanique
+14,panne de caténaire,0,Ligne10_RATP,panne de caténaire
+15,panne d'aiguillage,0,Ligne10_RATP,panne d'aiguillage
+16,panne matériel,0,Ligne10_RATP,panne matériel
+17,panne éléctrique,0,Ligne10_RATP,panne éléctrique
+18,panne sur un train,0,Ligne10_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne10_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne10_RATP,panne d'un train
+21,panne de train,0,Ligne10_RATP,panne de train
+22,obstacle sur la voie,0,Ligne10_RATP,obstacle sur la voie
+23,incident de passage,0,Ligne10_RATP,incident de passage
+24,accident de personne,0,Ligne10_RATP,accident de personne
+25,feu aux abords,0,Ligne10_RATP,feu aux abords
+26,pb signalisation,0,Ligne10_RATP,panne de signalisation
+27,jets de pierre,0,Ligne10_RATP,acte de malveillance
+28,bagage oublié,0,Ligne10_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne10_RATP,personnes sur les voies
+30,branche tombée,0,Ligne10_RATP,branche tombée
+31,jet de projectile,0,Ligne10_RATP,acte de malveillance
+0,incident technique,96,Ligne11_RATP,incident technique
+1,colis suspect,74,Ligne11_RATP,bagage abandonné
+2,malaise voyageur,47,Ligne11_RATP,malaise voyageur
+3,panne de matériel,41,Ligne11_RATP,panne de matériel
+4,incident voyageur,22,Ligne11_RATP,incident voyageur
+5,panne de signalisation,17,Ligne11_RATP,panne de signalisation
+6,incident d'exploitation,14,Ligne11_RATP,incident d'exploitation
+7,panne électrique,6,Ligne11_RATP,panne électrique
+8,voyageur malade,2,Ligne11_RATP,malaise voyageur
+9,divers incidents,2,Ligne11_RATP,divers incidents
+10,acte de malveillance,2,Ligne11_RATP,acte de malveillance
+11,bagage abandonné,1,Ligne11_RATP,bagage abandonné
+12,Incident de signalisation,0,Ligne11_RATP,Incident de signalisation
+13,panne mécanique,0,Ligne11_RATP,panne mécanique
+14,panne de caténaire,0,Ligne11_RATP,panne de caténaire
+15,panne d'aiguillage,0,Ligne11_RATP,panne d'aiguillage
+16,panne matériel,0,Ligne11_RATP,panne matériel
+17,panne éléctrique,0,Ligne11_RATP,panne éléctrique
+18,panne sur un train,0,Ligne11_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne11_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne11_RATP,panne d'un train
+21,panne de train,0,Ligne11_RATP,panne de train
+22,obstacle sur la voie,0,Ligne11_RATP,obstacle sur la voie
+23,incident de passage,0,Ligne11_RATP,incident de passage
+24,accident de personne,0,Ligne11_RATP,accident de personne
+25,feu aux abords,0,Ligne11_RATP,feu aux abords
+26,pb signalisation,0,Ligne11_RATP,panne de signalisation
+27,jets de pierre,0,Ligne11_RATP,acte de malveillance
+28,bagage oublié,0,Ligne11_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne11_RATP,personnes sur les voies
+30,branche tombée,0,Ligne11_RATP,branche tombée
+31,jet de projectile,0,Ligne11_RATP,acte de malveillance
+0,colis suspect,326,Ligne12_RATP,bagage abandonné
+1,malaise voyageur,190,Ligne12_RATP,malaise voyageur
+2,panne de matériel,142,Ligne12_RATP,panne de matériel
+3,incident technique,127,Ligne12_RATP,incident technique
+4,incident voyageur,80,Ligne12_RATP,incident voyageur
+5,panne de signalisation,48,Ligne12_RATP,panne de signalisation
+6,incident d'exploitation,21,Ligne12_RATP,incident d'exploitation
+7,divers incidents,20,Ligne12_RATP,divers incidents
+8,voyageur malade,19,Ligne12_RATP,malaise voyageur
+9,panne électrique,4,Ligne12_RATP,panne électrique
+10,Incident de signalisation,2,Ligne12_RATP,Incident de signalisation
+11,bagage abandonné,2,Ligne12_RATP,bagage abandonné
+12,panne mécanique,0,Ligne12_RATP,panne mécanique
+13,panne de caténaire,0,Ligne12_RATP,panne de caténaire
+14,panne d'aiguillage,0,Ligne12_RATP,panne d'aiguillage
+15,panne matériel,0,Ligne12_RATP,panne matériel
+16,panne éléctrique,0,Ligne12_RATP,panne éléctrique
+17,panne sur un train,0,Ligne12_RATP,panne sur un train
+18,pannes de signalisation,0,Ligne12_RATP,pannes de signalisation
+19,panne d'un train,0,Ligne12_RATP,panne d'un train
+20,panne de train,0,Ligne12_RATP,panne de train
+21,obstacle sur la voie,0,Ligne12_RATP,obstacle sur la voie
+22,incident de passage,0,Ligne12_RATP,incident de passage
+23,accident de personne,0,Ligne12_RATP,accident de personne
+24,feu aux abords,0,Ligne12_RATP,feu aux abords
+25,pb signalisation,0,Ligne12_RATP,panne de signalisation
+26,acte de malveillance,0,Ligne12_RATP,acte de malveillance
+27,jets de pierre,0,Ligne12_RATP,acte de malveillance
+28,bagage oublié,0,Ligne12_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne12_RATP,personnes sur les voies
+30,branche tombée,0,Ligne12_RATP,branche tombée
+31,jet de projectile,0,Ligne12_RATP,acte de malveillance
+0,colis suspect,322,Ligne13_RATP,bagage abandonné
+1,malaise voyageur,287,Ligne13_RATP,malaise voyageur
+2,panne de matériel,196,Ligne13_RATP,panne de matériel
+3,incident technique,165,Ligne13_RATP,incident technique
+4,panne de signalisation,122,Ligne13_RATP,panne de signalisation
+5,incident voyageur,107,Ligne13_RATP,incident voyageur
+6,divers incidents,53,Ligne13_RATP,divers incidents
+7,incident d'exploitation,25,Ligne13_RATP,incident d'exploitation
+8,voyageur malade,12,Ligne13_RATP,malaise voyageur
+9,panne électrique,9,Ligne13_RATP,panne électrique
+10,acte de malveillance,6,Ligne13_RATP,acte de malveillance
+11,Incident de signalisation,3,Ligne13_RATP,Incident de signalisation
+12,bagage abandonné,2,Ligne13_RATP,bagage abandonné
+13,panne mécanique,1,Ligne13_RATP,panne mécanique
+14,panne matériel,1,Ligne13_RATP,panne matériel
+15,panne de caténaire,0,Ligne13_RATP,panne de caténaire
+16,panne d'aiguillage,0,Ligne13_RATP,panne d'aiguillage
+17,panne éléctrique,0,Ligne13_RATP,panne éléctrique
+18,panne sur un train,0,Ligne13_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne13_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne13_RATP,panne d'un train
+21,panne de train,0,Ligne13_RATP,panne de train
+22,obstacle sur la voie,0,Ligne13_RATP,obstacle sur la voie
+23,incident de passage,0,Ligne13_RATP,incident de passage
+24,accident de personne,0,Ligne13_RATP,accident de personne
+25,feu aux abords,0,Ligne13_RATP,feu aux abords
+26,pb signalisation,0,Ligne13_RATP,panne de signalisation
+27,jets de pierre,0,Ligne13_RATP,acte de malveillance
+28,bagage oublié,0,Ligne13_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne13_RATP,personnes sur les voies
+30,branche tombée,0,Ligne13_RATP,branche tombée
+31,jet de projectile,0,Ligne13_RATP,acte de malveillance
+0,incident technique,207,Ligne14_RATP,incident technique
+1,panne de matériel,149,Ligne14_RATP,panne de matériel
+2,malaise voyageur,75,Ligne14_RATP,malaise voyageur
+3,colis suspect,48,Ligne14_RATP,bagage abandonné
+4,incident voyageur,35,Ligne14_RATP,incident voyageur
+5,incident d'exploitation,31,Ligne14_RATP,incident d'exploitation
+6,panne de signalisation,11,Ligne14_RATP,panne de signalisation
+7,panne électrique,3,Ligne14_RATP,panne électrique
+8,obstacle sur la voie,2,Ligne14_RATP,obstacle sur la voie
+9,voyageur malade,1,Ligne14_RATP,malaise voyageur
+10,divers incidents,1,Ligne14_RATP,divers incidents
+11,bagage abandonné,1,Ligne14_RATP,bagage abandonné
+12,Incident de signalisation,0,Ligne14_RATP,Incident de signalisation
+13,panne mécanique,0,Ligne14_RATP,panne mécanique
+14,panne de caténaire,0,Ligne14_RATP,panne de caténaire
+15,panne d'aiguillage,0,Ligne14_RATP,panne d'aiguillage
+16,panne matériel,0,Ligne14_RATP,panne matériel
+17,panne éléctrique,0,Ligne14_RATP,panne éléctrique
+18,panne sur un train,0,Ligne14_RATP,panne sur un train
+19,pannes de signalisation,0,Ligne14_RATP,pannes de signalisation
+20,panne d'un train,0,Ligne14_RATP,panne d'un train
+21,panne de train,0,Ligne14_RATP,panne de train
+22,incident de passage,0,Ligne14_RATP,incident de passage
+23,accident de personne,0,Ligne14_RATP,accident de personne
+24,feu aux abords,0,Ligne14_RATP,feu aux abords
+25,pb signalisation,0,Ligne14_RATP,panne de signalisation
+26,acte de malveillance,0,Ligne14_RATP,acte de malveillance
+27,jets de pierre,0,Ligne14_RATP,acte de malveillance
+28,bagage oublié,0,Ligne14_RATP,bagage abandonné
+29,personnes sur les voies,0,Ligne14_RATP,personnes sur les voies
+30,branche tombée,0,Ligne14_RATP,branche tombée
+31,jet de projectile,0,Ligne14_RATP,acte de malveillance
